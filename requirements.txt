@@ -1,9 +1,9 @@
+streamlit
 langchain
 langchain-core
-langchain-text-splitters
 langchain-groq
-langgraph
 chromadb
-streamlit
-pypdf
-packaging
+PyPDF2
+langgraph
+sentence-transformers
+python-dotenv
